@@ -1,0 +1,2 @@
+# beginnerHaskell
+haskell basics
